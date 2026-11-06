@@ -937,7 +937,7 @@ typedef struct {
 } FMTP;
 
 #define BLOCK_SIZE 8
-#define NUM_ROUNDS 16
+#define NUM_ROUNDS 23
 
 class Crypt {
 private:
